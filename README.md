@@ -21,7 +21,15 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>MS SQL Server Integration Services supports two deployment models,<br />the project deployment model and the legacy package deployment model, Data Transformation Services (DTS).<br /><br />This Action Pack is intended to execute legacy SSIS Packages. <br />Please note that SSiS usually only excepts request from Windows users which uses Windows Authentication. <br />Please make sure that the the SQL Agent accordingly configured.<br /><br />The Action Pack requires:<br />- Windows OS Agent<br />- dtexec Utility<br /><br /><a href="https://docs.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility">https://docs.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility</a></p>
+<p>MS SQL Server Integration Services supports two deployment models: 1) The project deployment model and 2) The legacy package deployment model (Data Transformation Services - DTS).</p>
+<p>This Action Pack is intended to execute legacy SSIS Packages.</p>
+<p>Please note that SSIS usually only excepts request from Windows users which uses Windows Authentication. Please make sure that the SQL Agent configured accordingly.</p>
+<p>The Action Pack requires:</p>
+<ul>
+<li>Windows OS Agent</li>
+<li>"dtexec" Utility</li>
+</ul>
+<p>See the following page for further information on the "dtexec" command: <a href="https://docs.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility">https://docs.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility</a></p>
 
 Copyright and License
 ---
