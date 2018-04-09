@@ -21,7 +21,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>MS SQL Server Integration Services supports two deployment models: 1) The project deployment model and 2) The legacy package deployment model (Data Transformation Services - DTS).</p>
+<p>MS SQL Server Integration Services support two deployment models: 1) The project deployment model and 2) The legacy package deployment model, i.e. Data Transformation Services (DTS).</p>
 <p>This Action Pack is intended to execute legacy SSIS Packages.</p>
 <p>Please note that SSIS usually only accepts requests from Windows users who use Windows Authentication. Please make sure that the SQL Agent is configured accordingly.</p>
 <p>The Action Pack requires:</p>
