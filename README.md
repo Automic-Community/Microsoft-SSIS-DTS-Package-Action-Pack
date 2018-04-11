@@ -26,7 +26,8 @@ Documenation and Instructions
 <p>Please note that SSIS usually only accepts requests from Windows users who use Windows Authentication. Please make sure that the SQL Agent is configured accordingly.</p>
 <p>The Action Pack requires:</p>
 <ul>
-<li>Windows OS Agent</li>
+<li>CA Automic One Automation Platform V12.1.1 minimum</li>
+<li>A Windows OS Agent</li>
 <li>"dtexec" Utility</li>
 </ul>
 <p>See the following page for further information on the "dtexec" command: <a href="https://docs.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility">https://docs.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility</a></p>
